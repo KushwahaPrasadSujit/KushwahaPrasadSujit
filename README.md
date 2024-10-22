@@ -23,10 +23,6 @@
 
 ###
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -61,6 +57,36 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
+
+###
+
+<img align="right" height="200" src="https://scontent.fktm10-1.fna.fbcdn.net/v/t39.30808-6/342715543_540198121611643_5701367986358185416_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEicT4_iFdGsAshFjOzeBfbXJ-33hWeoyFcn7feFZ6jIci3cyVevrB1HZgJNZq97C82TfZZtO05etroqESAk98z&_nc_ohc=zI93sSVaLkMQ7kNvgHBaQF0&_nc_ht=scontent.fktm10-1.fna&_nc_gid=AvjwDThihCpBYkAV4V9-Ucp&oh=00_AYAFNKOiAhZdkyuUABweTb75CzYsUWF_8QvezuNVGexvbA&oe=671CECD5"  />
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/SujitPrasaddKushwaha/SujitPrasaddKushwaha/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/SujitPrasaddKushwaha/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/orkwcjtdipzlvt2x4lqb54sci">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=orkwcjtdipzlvt2x4lqb54sci&count=6&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=3&username=@roniejo.rm&theme=dark" alt="Layout with last medium posts"  />
 </div>
 
 ###
